@@ -9,7 +9,7 @@
 
 - 😽 Daily Habits **Anime,Games and modders**
 
-- 😻 My Waifu **Tokisaki Kurumi**(https://myanimelist.net/character/70069/Kurumi_Tokisaki?q=Tokisaki&cat=character)
+- 😻 My Waifu [ 𝗧𝗢𝗞𝗜𝗦𝗔𝗞𝗜 𝗞𝗨𝗥𝗨𝗠𝗜 ](https://myanimelist.net/character/70069/Kurumi_Tokisaki?q=Tokisaki&cat=character)
 
 - 😼 Programming **There isn't any**
 
@@ -22,11 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-mozz&show_icons=true&locale=en&layout=compact" alt="me-mozz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-mozz&show_icons=true&locale=en" alt="me-mozz" /></p>
-
-
-
-
-
-
-
 
