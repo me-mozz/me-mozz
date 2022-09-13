@@ -9,7 +9,7 @@
 
 - 😽 Daily Habits **Anime,Games and modders**
 
-- 😻 My Waifu **Tokisaki Kurumi** (https://myanimelist.net/character/70069/Kurumi_Tokisaki?q=Tokisaki&cat=character)
+- 😻 My Waifu **Tokisaki Kurumi**(https://myanimelist.net/character/70069/Kurumi_Tokisaki?q=Tokisaki&cat=character)
 
 - 😼 Programming **There isn't any**
 
