@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/xisipizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xisipizz" height="30" width="40" /></a>
 <a href="https://fb.com/bymozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bymozz" height="30" width="40" /></a>
-  <a href="https://wa.me/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="bymozz](https://raw.githubusercontent.com/me-mozz/me-mozz/main/image/svg/whatsapp-icon.svg)" height="30" width="40" /></a>
+  <a href="https://wa.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/me-mozz/me-mozz/main/image/svg/whatsapp-icon.svg" alt="bymozz" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-mozz&show_icons=true&locale=en&layout=compact" alt="me-mozz" /></p>
