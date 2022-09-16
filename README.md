@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/me-mozz/me-mozz/main/image/illust_100479114_20220821_082514.jpg)](https://rishavchanda.io)
-<h1 align="center">Hello, My Name Is</br>Anju Pramana Barasa
+<h1 align="center">Hello, My Name Is</br><img src="https://www.gambaranimasi.org/data/media/781/animasi-bergerak-bendera-indonesia-0017.gif" height="30" width="40"/>Anju Pramana Barasa
 <img src="https://www.gambaranimasi.org/data/media/781/animasi-bergerak-bendera-indonesia-0017.gif" height="30" width="40"/>
 </h1>
 <h3 align="center">Hi everyone! My name is Anju, I was born on September 09, 2005. I come from Medan. I have a great interest in the world of technology. I hope I can become a professional programmer and hacker someday. That is my dream<br>
